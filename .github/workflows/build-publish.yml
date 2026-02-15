@@ -1,4 +1,4 @@
-name: Build and Publish Distroless cnvpytor
+name: Build and Publish cnvpytor
 
 on:
   push:

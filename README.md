@@ -1,5 +1,5 @@
 # cnvpytor
-Small, distroless-when-possible container for `cnvpytor`.
+Small compatibility-focused container for `cnvpytor`.
 
 ## how to use
 ```bash
